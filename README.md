@@ -1,3 +1,7 @@
+# Overview
+
+This repository shows a minimal example of how to deploy a contract using Anvil and Foundry scripts and interact with the contract using EthersJS
+
 # Setup the environment variables
 
 - `cp .env.sample .env`
